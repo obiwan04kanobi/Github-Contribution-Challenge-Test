@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [supriya singh](https://github.com/supriyasingh45)
+
 - [Shanvi Prajapati](https://github.com/shanviprajapati)
 
 - [Shweta Pandey](https://github.com/Shweta12121)
@@ -18,5 +20,4 @@ Enter Names here !
 - [Akshira Pandey](https://github.com/AkshiraP)
 
 - [Tanushi Singh](https://github.com/Tanushisingh)
-
 
