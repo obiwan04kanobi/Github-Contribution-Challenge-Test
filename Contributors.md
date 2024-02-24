@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Utkarsh Gupta](https://github.com/codewithuv)
+
 - [Pranay Gupta](https://github.com/pranayguptag)
 
 - [Gagan Sharma](https://github.com/gfoc)
@@ -66,3 +68,4 @@ Enter Names here !
 - [Akshira Pandey](https://github.com/AkshiraP)
 
 - [Tanushi Singh](https://github.com/Tanushisingh)
+
