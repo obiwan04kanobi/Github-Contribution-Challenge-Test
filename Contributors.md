@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [alka](https://github.com/Alkasingh99)
+
 - [supriya singh](https://github.com/supriyasingh45)
 
 - [Shanvi Prajapati](https://github.com/shanviprajapati)
