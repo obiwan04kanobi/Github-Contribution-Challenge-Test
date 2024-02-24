@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Anushikha Singh](https://github.com/anushikha29)
+
 - [Utkarsh Gupta](https://github.com/codewithuv)
 
 - [Pranay Gupta](https://github.com/pranayguptag)
