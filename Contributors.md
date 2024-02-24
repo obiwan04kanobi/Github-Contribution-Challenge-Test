@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Gagan Sharma](https://github.com/gfoc)
+
 - [Pratham Singh](https://github.com/prathamas)
 
 - [Piyush Sharma](https://github.com/PiyushgithubSharma)
@@ -62,3 +64,4 @@ Enter Names here !
 - [Akshira Pandey](https://github.com/AkshiraP)
 
 - [Tanushi Singh](https://github.com/Tanushisingh)
+
