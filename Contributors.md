@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Shweta Pandey](https://github.com/Shweta12121)
+
 - [Barkha Jha](https://github.com/barkha2oo4)
 
 - [Anurag](https://github.com/anuragkumar07070)
