@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Aryan Rastogi](https://github.com/Aryan43210)
+
 - [Ritvij Bansal](https://github.com/Ritvij1974)
 
 - [Ananya Gupta](https://github.com/AnanyaGupta122)
@@ -28,4 +30,3 @@ Enter Names here !
 - [Akshira Pandey](https://github.com/AkshiraP)
 
 - [Tanushi Singh](https://github.com/Tanushisingh)
-
