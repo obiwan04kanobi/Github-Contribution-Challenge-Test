@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Vartika Sati](https://github.com/account)
+
 - [keshav kumar](https://github.com/keshavsinghrajput)
 
 - [Piyush Kumar Gupta](https://github.com/piyushgupta246)
@@ -36,3 +38,4 @@ Enter Names here !
 - [Akshira Pandey](https://github.com/AkshiraP)
 
 - [Tanushi Singh](https://github.com/Tanushisingh)
+
