@@ -1,6 +1,8 @@
 Enter Names here !
 - [Mayank Pant](https://github.com/obiwan04kanobi)
 
+- [Piyush Kumar Gupta](https://github.com/piyushgupta246)
+
 - [Nitin Kumar Nayan](https://github.com/nitinnayan7)
 
 - [Aryan Rastogi](https://github.com/Aryan43210)
